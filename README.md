@@ -1,4 +1,4 @@
-# Demenstração de utilização do enum como tipo global
+# Demonstração de utilização do enum como tipo global
 
 Demonstração da utilização de um enum numa instrução `switch case`.
 
